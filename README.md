@@ -1,0 +1,1 @@
+use javascript implement zeroscript
